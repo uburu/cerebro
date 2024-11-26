@@ -8,7 +8,7 @@ GeoIP City Edition, Rev 1: US, TX, Texas, Austin, 78744, 30.176001, -97.737297, 
 
 
 La base de datos de ASNs tenemos que bajarla a mano:
-http://download.maxmind.com/download/geoip/database/asnum/GeoIPASNum.dat.gz
+https://download.maxmind.com/download/geoip/database/asnum/GeoIPASNum.dat.gz
 
 
 Actualizar las bbdd de pais y ciudad cada dia:
